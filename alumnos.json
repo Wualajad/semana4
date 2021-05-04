@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "angel",
+        "promedio": 15.25,
+        "mayor nota": 18,
+        "menor nota": 12,
+        "nota 1": 12,
+        "nota 2": 15,
+        "nota 3": 16,
+        "nota 4": 18
+    },
+    {
+        "nombre": "yop ",
+        "promedio": 15.75,
+        "mayor nota": 18,
+        "menor nota": 14,
+        "nota 1": 18,
+        "nota 2": 16,
+        "nota 3": 15,
+        "nota 4": 14
+    }
+]
